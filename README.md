@@ -7,11 +7,9 @@
 
 - 🔭 I’m currently working on **a lot of exciting projects**
 
-- 🌱 I’m currently learning **a lot of new things**
+- 🌱 I’m currently learning **DevOps**
 
 - 👯 I’m looking to collaborate on **anything at all (hmu)**
-
-- 🤝 I’m looking for help with **learning new things**
 
 - 👨‍💻 All of my projects are available at [bhumitmadeaweb.site](bhumitmadeaweb.site)
 
